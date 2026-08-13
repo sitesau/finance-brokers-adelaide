@@ -1,0 +1,16 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| Adelaide Finance Broker presents itself as an enquiry website that helps people speak with licensed brokers across Adelaide and South Australia. | SUPPORTED | Money text says “Serving all of Adelaide & South Australia,” “you can speak with the right specialist,” and “Adelaide Finance Broker is an enquiry website. Licensed finance brokers provide all credit assistance.” |
+| The published page says licensed finance brokers provide all credit assistance and that Adelaide Finance Broker does not provide financial advice or credit assistance. | SUPPORTED | Money text explicitly says: “Licensed finance brokers provide all credit assistance. We do not provide financial advice or credit assistance.” |
+| The published page says there are 50+ partner brokers. | SUPPORTED | Money text says “50+ Partner Brokers.” |
+| The published page says brokers access 40+ lenders. | SUPPORTED | Money text says brokers “access 40+ lenders.” |
+| The published page says the enquiry support is free. | SUPPORTED | Money text says “Free broker enquiry support” and “our broker enquiry support costs you nothing.” |
+| The published page says brokers are paid by lenders. | SUPPORTED | Money text says: “Brokers are paid by lenders.” |
+| The published page names home loans, investment loans, car loans, commercial loans, business loans and equipment finance. | SUPPORTED | Money text lists those six service categories. |
+| The published page says partner brokers work with major banks including CBA, ANZ, Westpac, NAB and BankSA, plus specialist lenders. | SUPPORTED | Money text says partner brokers work with “all major banks - CBA, ANZ, Westpac, NAB, BankSA - plus specialist lenders.” |
+| The published page lists Adelaide, South Australia, Adelaide CBD, Adelaide Hills, Aldinga, Brighton, Burnside and Campbelltown among service areas. | SUPPORTED | Money text includes “Adelaide & South Australia” and lists Adelaide CBD, Adelaide Hills, Aldinga, Brighton, Burnside and Campbelltown. |
+| ASIC Moneysmart provides home loan guidance that includes comparing home loans, interest rates, fees and repayments. | SUPPORTED | ASIC Moneysmart’s home loans page says it helps readers “compare home loans,” and says small differences in “interest rates, costs, and repayments” matter; it also links to choosing/comparing loan options. ([moneysmart.gov.au](https://moneysmart.gov.au/home-loans)) |
+| ASIC Moneysmart provides guidance on understanding property investment. | SUPPORTED | ASIC Moneysmart’s property investment page says it is important to understand how investing in property works and lists common property investment paths. ([moneysmart.gov.au](https://moneysmart.gov.au/property-investment)) |
+| Built page retained assertion: “the published page says the enquiry support is free, lists 50+ partner brokers, and says brokers access 40+ lenders”; it also says the page names the listed finance types across Adelaide and South Australia. | SUPPORTED | These retained visible-text claims are all present in the money text: free enquiry support, 50+ partner brokers, 40+ lenders, named finance types, and Adelaide/South Australia scope. |
+
+FACT-CHECK: PASS
